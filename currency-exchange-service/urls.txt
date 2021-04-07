@@ -1,0 +1,15 @@
+Currency Exchange URL
+http://localhost:8000/currency-exchange/from/USD/to/INR
+
+Currency Conversion URL 
+http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
+
+
+docker.io/1code/ms-currency-exchange-service:0.0.1-SNAPSHOT
+
+docker.io/1code/ms-naming-server:0.0.1-SNAPSHOT
+
+docker.io/1code/ms-currency-conversion-service:0.0.1-SNAPSHOT
+
+docker.io/1code/ms-api-gateway:0.0.1-SNAPSHOT
+
